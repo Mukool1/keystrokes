@@ -1,0 +1,4 @@
+/* Minimal custom CSS since we use mostly Bootstrap */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
